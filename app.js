@@ -44,6 +44,8 @@ app.component("friend-contact", {
     };
   },
   methods: {
+    // Remove test file test.js
+
     toggleDetails() {
       this.detailsAreVisible = !this.detailsAreVisible;
     },
